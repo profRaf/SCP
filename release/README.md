@@ -11,7 +11,9 @@ These instructions will get you a copy of the project up and running on your loc
 ### Requirements
 
 For SCP 1.0.0 to work you need:
-* Django framework 
+
+* Django framework
+* Python
 
 ```
 Give examples
