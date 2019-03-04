@@ -15,8 +15,9 @@ For SCP 1.0.0 to work you need:
 * Django framework
 * Python
 
-```
-Give examples
+```bash
+#!/bin/bash
+echo Hello world
 ```
 
 ### Installing
