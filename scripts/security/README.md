@@ -8,12 +8,13 @@ This security patch will address a critical vulnerability within the .Trojan app
 
 ## Requirement
 Make sure patch.sh and patch_server_util.py is in the same directory before performing the patch.
-Quick Patch:
+
+## Quick Patch:
 ```bash
 bash patch.sh
 ```
 
-Manual patch
+## Manual patch
 ```bash
 #!/bin/bash
 mv ~/.trojan/trojan_env/Trojan_App/Trojan/AWS_Utilities/src/server_util.py /tmp/backup_server_util.py
