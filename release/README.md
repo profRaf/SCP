@@ -1,4 +1,4 @@
-# SCP release 1.0.0
+# SCP release 1.2.0
 
 ## Smart Contract Product for IS214 ESM AY201819T2
 
