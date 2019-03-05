@@ -6,11 +6,14 @@ Simple Corporate Web Site for simulation of Enterprise Solution System.
 
 ## Getting Started
 
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
+You will need the AWS IS214 Student EC2 Instance (AMI)
+You are receiving 2 folders:
+
+* ICA: This is the corporate website
+* scripts: These are IT Operations scripts
 
 ### Requirements
 
-For SCP 1.0.0 to work you need:
+For SCP 1.2.0 to work you need:
 
-* Django framework
-* Python
+* Production Instance
