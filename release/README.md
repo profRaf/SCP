@@ -21,7 +21,6 @@ For SCP 1.2.0 to work you need:
 ### Instructions
 
 * Replace the file at /home/ec2-user/Django_Application/virtual_env/ICA-1/ICA/templates/Main/home.html from SCP 1.2.0
-* Change the background color to one matching the Smart Contract Launch Slide main color
 * Update the value of GxTy to your Teams Division name
 * Note: Only update the home.html file located at /home/ec2-user/Django_Application/virtual_env/ICA-1/ICA/templates/Main
 
